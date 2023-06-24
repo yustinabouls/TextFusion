@@ -1,0 +1,12 @@
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/bin/Release/lab5.exe.config
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/bin/Release/lab5.exe
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/bin/Release/lab5.pdb
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/bin/Release/lab5.xml
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/obj/Release/lab5.vbproj.AssemblyReference.cache
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/obj/Release/lab5.frmtexteditorselectafiletoopen.resources
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/obj/Release/lab5.Resources.resources
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/obj/Release/lab5.vbproj.GenerateResource.cache
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/obj/Release/lab5.vbproj.CoreCompileInputs.cache
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/obj/Release/lab5.exe
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/obj/Release/lab5.xml
+/Users/akeellashley/Desktop/Yusi/School-projects/NETD-lab5/lab5/obj/Release/lab5.pdb
